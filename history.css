@@ -1,0 +1,35 @@
+.first-step{
+    margin-top: 164px;
+    margin-left: 200px;
+}
+
+.heading-1{
+    font-weight: bold;
+
+}
+.container-1{
+    display: flex;
+}
+.story{
+    padding-left: 238px;
+    padding-top: 213px;
+}
+.container-2{
+    margin-top: 100px;
+    display: flex;
+}
+.Destination{
+    margin-left: 184px;
+}
+.Building{
+    padding-left: 200px;
+    padding-top: 142px;
+}
+.vision{
+    margin-top: 161px;
+    margin-left: 245px;
+
+}
+.container-3{
+    margin-top: 199px;
+}

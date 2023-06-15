@@ -1,0 +1,363 @@
+.navbar{
+    border: 2px solid red;
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+    position: sticky;
+    top: 0;
+  
+}
+
+
+.list-1{
+    display: flex;
+    float: left;
+    list-style: none;
+    cursor: pointer;
+}
+.item1{
+    margin-left: 25px;
+    margin-top: 2px;
+    font-size: 18px;
+    color: red;
+}
+.item1:hover{
+   color: black;
+   transition: 0.4s all ease;
+   transform: scale(1.1);
+}
+.list-2{
+    display: flex;
+    float: right;
+    list-style: none;
+    margin-right: 30px;
+    margin-top: 17px;
+    font-size: 18px;
+    color:red;
+    cursor: pointer;
+}
+
+.item2{
+    margin-right: 40px;
+}
+.item2:hover{
+   color:black;
+   transition: 0.4s all ease;
+   transform: scale(1.1);
+}
+.item3{
+    margin-right: 40px;
+}
+.item3:hover{
+   color: black;
+   transition: 0.4s all ease;
+   transform: scale(1.1);
+}
+.item5{
+   margin-left: 200px;
+   margin-top: 40px;
+   
+}
+.item4:hover{
+   color: black;
+   transition: 0.4s all ease;
+   transform: scale(1.1);
+}
+.list-4{
+    position: absolute;
+    color: white;
+    list-style: none;
+    float: inline-start;
+    display: flex;
+    border-radius: 10px;
+    height: 45px;
+    width: 750px;
+    background-color: orangered;
+    
+}
+
+.item7{
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.item7:hover{
+    color: black;
+    transition: 0.4s all ease;
+}   
+.center{
+   margin-top: 80px;
+  margin-left: 250px;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+.para-1{
+    margin-left: 300px;
+    letter-spacing: 1px;
+    color: red;
+}
+.container-1{
+    display: flex;
+    margin-left: 45px;
+   
+}
+
+.butn-1 {
+  
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-style: italic;
+    background-color: orangered;
+   
+  }
+  .butn-1:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 35px lightseagreen;
+  }
+  .butn-2{
+  
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-style: italic;
+    background-color: orangered;
+   
+  }
+  .butn-2:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 35px lightseagreen;
+  }
+
+  .butn-3{
+  
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-style: italic;
+    background-color: orangered;
+   
+  }
+  .butn-3:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 35px lightseagreen;
+  }
+
+ .container-2{
+    display: flex;
+    margin-top: 500px;
+ } 
+
+ .para-2{
+    color: red;
+    margin-left: 120px;
+ }
+ .heading-1{
+    margin-left: 50px;
+ }
+ .para-3{
+    margin-left: 60px;
+ }
+ .img8{
+    margin-left: 100px;
+ }
+ 
+ .container-3{
+    margin-top: 80px;
+ }
+ .para-5{
+    color: red;
+    letter-spacing: 1px;
+ }
+ .heading-2{
+    letter-spacing: 2px;
+    font-size: 45px;
+ }
+ .container-4{
+    margin-top: 100px;
+ }
+ .container-5{
+    margin-left: 450px;
+    margin-top: 60px;
+ }
+ .para-6{
+    margin-left: 150px;
+    color: red;
+ }
+ .container-6{
+    display: flex;
+    margin-left: 70px;
+ }
+ .box-3{
+    margin-left: 70px;
+ }
+ .box-2{
+    margin-left: 70px;
+ }
+ .S-S{
+   margin-top: 60px;
+ }
+ .container-7{
+   margin-left: 500px;
+   margin-top: 70px;
+ }
+ .para-7{
+   color: red;
+   letter-spacing: 1px;
+   margin-left: 150px;
+ }
+ .container-8{
+  margin-left: 45px;
+   display: flex;
+ }
+ .container-9{
+   margin-top: 60px;
+  margin-left: 40px;
+ }
+ .container-10{
+   width: 1330px;
+   height: 500px;
+   background-color: black;
+   margin-top: 50px;
+   border-radius: 15px;
+ }
+ .list-5{
+   list-style: none;
+   display: flex;
+   float: left;
+   
+ }
+ .logo{
+   padding-top: 50px;
+ }
+ .subs{
+   padding-top: 70px;
+   padding-left: 30px;
+   font-size: 25px;
+ }
+ .input{
+   margin-left: 80px;
+   height: 40px;
+   width: 200px;
+   border-radius: 15px;
+   margin-top: 70px;
+ }
+
+ .butn-4 {
+   margin-top: 70px;
+   margin-left: 30px;
+   height: 50px;
+   width: 150px;
+   border-radius: 10px;
+   font-size: 17px;
+   font-style: italic;
+   background-color: orangered;
+  
+ }
+ .butn-4:hover {
+   background-color: black;
+   color: white;
+   box-shadow: 0 0 35px lightseagreen;
+ }
+ .list-6{
+   list-style: none;
+   color: white;
+ }
+ .background-img{
+position: absolute;
+ }
+ .img-nav{
+   color: red;
+   list-style: none;
+   position: absolute;
+   display: flex;
+   float: left;
+   border: 2px solid orangered;
+   height: 30px;
+   width: 750px;
+   border-radius: 20px;
+   background-color: orangered;
+ }
+ .home{
+   padding-left: 45px;
+
+   color: white;
+   cursor: pointer;
+}
+.home:hover{
+     transform: scale(1.2);
+      color: black;
+     
+    
+}
+ .page{
+   padding-left: 40px;
+  
+   color: white;
+   cursor: pointer;
+  
+}
+.page:hover{
+   transform: scale(1.2);
+    color: black;
+   
+  
+}
+ .serv{
+   padding-left: 40px;
+  
+   color: white;
+   cursor: pointer;
+ }
+ .serv:hover{
+   transform: scale(1.2);
+    color: black;
+   
+  
+}
+
+ .port{
+   padding-left: 40px;
+  
+   color: white;
+   cursor: pointer;
+  
+  
+ }
+ .port:hover{
+   transform: scale(1.2);
+    color: black
+   
+  
+}
+ .blog{
+   padding-left: 40px;
+ 
+   color: white;
+   cursor: pointer;
+ }
+ .blog:hover{
+   transform: scale(1.2);
+    color: black;
+   
+  
+}
+ .cont{
+   padding-left: 40px;
+ 
+   color: white;
+   cursor: pointer;
+ }
+ .cont:hover{
+   transform: scale(1.1);
+    color: black;
+   
+  
+}
